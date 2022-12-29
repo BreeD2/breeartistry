@@ -168,13 +168,7 @@ ul.topnav li a {
 
 }
 
-a:hover {
-color: black;
-background-color: hotpink;
-border: 2px solid white;
-padding: 1px;
 
-}
 
 footer {
   background-color: hotpink;
